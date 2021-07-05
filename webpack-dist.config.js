@@ -102,7 +102,7 @@ module.exports = {
     }),
     new EndWebpackPlugin(async () => {
       // 自定义域名
-      // fs.writeFileSync(path.resolve(outputPath, 'CNAME'), 'resume.wuhaolin.cn');
+       fs.writeFileSync(path.resolve(outputPath, 'CNAME'), 'resume.yayalu.xyz');
 
       await publishGhPages();
 
