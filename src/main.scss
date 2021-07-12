@@ -145,6 +145,7 @@ a {
     h2 {
       display: inline-block;
       font-size: 24px;
+      font-weight: 500;
       @media screen and (max-width: 720px) {
         border-top: 1px solid darken($color-green, 2%);
         margin: 5px auto 0;
