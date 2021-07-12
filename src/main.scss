@@ -285,7 +285,7 @@ a {
     line-height: 20px;
     overflow: hidden;
     font-weight: 900;
-    font-size: 18px;
+    font-size: 17px;
     min-height: 30px;
     .item-time {
       display: inline-block;
@@ -310,10 +310,12 @@ a {
   }
   .item-des {
     margin-bottom: 16px;
+    margin-top: 16px;
   }
   .section-content {
     text-align: justify;
     word-break: break-all;
+    margin-top: 16px;
     line-height: 22px;
     em {
       display: inline-block;
