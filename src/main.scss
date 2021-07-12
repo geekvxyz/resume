@@ -284,12 +284,13 @@ a {
     padding: 10px 0 5px;
     line-height: 20px;
     overflow: hidden;
-    font-weight: 500;
+    font-weight: 900;
+    font-size: 18px;
     min-height: 30px;
     .item-time {
       display: inline-block;
       float: left;
-      width: 55%;
+      width: 100%;
       @media screen and (max-width: 720px) {
         width: 100%;
         margin-bottom: 5px;
