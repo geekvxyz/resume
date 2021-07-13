@@ -256,7 +256,7 @@ a {
     width: 35%;
     height: 0;
     vertical-align: middle;
-    border-top: 1px solid #ededed;
+    border-top: 1px solid #2196F3;
   }
   .section-title-l {
     left: 0;
@@ -275,7 +275,8 @@ a {
     font-size: 16px;
     font-weight: bold;
     text-align: center;
-    background-color: #eee;
+    color: #fff;
+    background-color: #2196F3;
   }
   .section-list {
     padding: 10px 0 5px;
@@ -310,8 +311,9 @@ a {
     margin-bottom: 5px;
   }
   .item-des {
-    margin-bottom: 16px;
-    margin-top: 16px;
+    font-weight:bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
   }
   .section-content {
     text-align: justify;
